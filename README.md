@@ -1,0 +1,1 @@
+En el repositorio se encuentran los datos (fotos y ruta gpx ) que se utilizaron para el programa, ademas de una archivo html que fuel; que ejecuto mi vs code , con solo el programa y los datos ejecuta un archivo html 
